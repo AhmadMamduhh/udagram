@@ -5,7 +5,7 @@
  The Udagram application is a fairly simple application that includes all the major components of a Full-Stack web application. This repo contains a full Node.js API as backend, an Angular project as a frontend & a CircleCi pipeline config file to handle installing packages, linting, building & deploying for both the frontend and the backend. The frontend is hosted on an AWS S3 bucket and the backend API is hosted on an AWS Elastic Beanstalk server. The backend is connected to a Postgres database which is hosted on AWS RDS.
 
 ### Web App Screenshots
-The web app is hosted on an AWS S3 bucket. Here's the link to access it: http://udagram-web.s3-website-us-east-1.amazonaws.com/home
+The web app is hosted on an AWS S3 bucket. Here's the link to access it: http://udagram-web.s3-website-us-east-1.amazonaws.com
 
  1. Home Page
 https://drive.google.com/file/d/1KTFRoyS2yY1t06u8aINXB7PbC1wW9MGO/view?usp=sharing
